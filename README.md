@@ -7,7 +7,7 @@ A tiny JavaScript utility to extract all defined classes in the HTML to clipboar
 - Make sure to run the `.html` document and press the defined shortcut key or F11 (default) to extract the classes from the running `.html` page.
 - You can now paste the captured class names wherever you want.
 ```
-<script src='https://raw.githubusercontent.com/proinfocus/CssClassExtractor/main/class-extractor.js'></script>
+<script src='https://proinfocus.github.io/CssClassExtractor/class-extractor.js'></script>
 <script>
   shortcutKey = "F12";
 </script>
@@ -42,7 +42,7 @@ A tiny JavaScript utility to extract all defined classes in the HTML to clipboar
         <div class="sitemap"></div>
     </div>
     
-    <script src="https://raw.githubusercontent.com/proinfocus/CssClassExtractor/main/class-extractor.js"></script>    
+    <script src="https://proinfocus.github.io/CssClassExtractor/class-extractor.js"></script>    
 </body>
 </html>
 ```
