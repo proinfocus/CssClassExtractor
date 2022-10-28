@@ -1,5 +1,5 @@
 # CssClassExtractor
-A tiny JavaScript utility to extract all defined classes in the HTML to clipboard to be retrieve where its required.
+A tiny JavaScript utility to extract all defined classes in the HTML to clipboard to be used wherever it is required.
 
 ## Usage
 - Create your `.html` document as usual by defining the class names in whatever tags you want.
